@@ -9,7 +9,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
     Sitemap({
-      hostname: "https://kidsya.com/",
+      hostname: "https://nexyea.com/",
       dynamicRoutes: ["/", "/products", "/categories"],
       priority: 1,
     }),
